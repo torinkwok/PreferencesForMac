@@ -23,7 +23,7 @@
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>Courier - 10.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0.0980392 0.0980392 0.0980392 1</string>
+	<string>0.149075 0.138384 0.123652 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
@@ -31,7 +31,7 @@
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.705792 0.8 0.544 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.127566 0.118573 0.0874188 1</string>
+	<string>0.110272 0.100756 0.0816854 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
@@ -73,7 +73,7 @@
 		<key>xcode.syntax.identifier.type.system</key>
 		<string>1 0.595989 0.126699 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.401493 0.851756 0.935755 1</string>
+		<string>1 0.501961 0 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>0.401493 0.851756 0.935755 1</string>
 		<key>xcode.syntax.keyword</key>
