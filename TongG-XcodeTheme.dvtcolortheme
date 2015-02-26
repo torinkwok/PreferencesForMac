@@ -15,19 +15,19 @@
 	<key>DVTConsoleDebuggerPromptTextFont</key>
 	<string>Courier - 10.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
-	<string>0.995968 0.995968 0.995968 1</string>
+	<string>0.459445 0.442009 0.369169 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
 	<string>Courier - 10.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0.995968 0.995968 0.995968 1</string>
+	<string>0.459445 0.442009 0.369169 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>Courier - 10.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0.149075 0.138384 0.123652 1</string>
+	<string>0.104532 0.0970394 0.0712774 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
-	<string>0 0 0 1</string>
+	<string>0.8 0.8 0.8 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.891972 0.635291 1 1</string>
+	<string>1 0.921867 0.982865 0.27</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.705792 0.8 0.544 1</string>
 	<key>DVTSourceTextBackground</key>
@@ -61,7 +61,7 @@
 		<key>xcode.syntax.identifier.constant.system</key>
 		<string>0.680619 0.503594 0.999973 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.993407 0.591746 0.120865 1</string>
+		<string>1 0.501961 0 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>0.4 0.8 1 1</string>
 		<key>xcode.syntax.identifier.macro</key>
@@ -71,9 +71,9 @@
 		<key>xcode.syntax.identifier.type</key>
 		<string>0.993407 0.591746 0.120865 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>1 0.595989 0.126699 1</string>
+		<string>0.6 0.6 0.6 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>1 0.501961 0 1</string>
+		<string>1 0.4 0.4 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>0.401493 0.851756 0.935755 1</string>
 		<key>xcode.syntax.keyword</key>
